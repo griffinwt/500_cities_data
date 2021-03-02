@@ -1,0 +1,476 @@
+Year,StateAbbr,StateDesc,CityName,Category,CategoryID,Short_Question_Text,tot_city_pop,perc_city_pop,tot_city_percent
+2016,IL,Illinois,Chicago,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,8086794.0,2917566.0,0.36
+2016,IL,Illinois,Evanston,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,223458.0,69763.0,0.31
+2016,IL,Illinois,Elgin,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,324564.0,111214.0,0.34
+2016,IL,Illinois,Peoria,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,807216.0,277302.0,0.34
+2016,IL,Illinois,Palatine,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,205671.0,64052.0,0.31
+2016,IL,Illinois,Decatur,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,228366.0,79434.0,0.35
+2016,IL,Illinois,Naperville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,425559.0,127284.0,0.3
+2016,IL,Illinois,Joliet,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,442299.0,153218.0,0.35
+2016,IL,Illinois,Cicero,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,251673.0,90770.0,0.36
+2016,AL,Alabama,Birmingham,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,636711.0,265373.0,0.42
+2016,NY,New York,Buffalo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,783930.0,333909.0,0.43
+2016,IN,Indiana,Indianapolis,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,2461335.0,896799.0,0.36
+2016,IL,Illinois,Waukegan,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,267234.0,101332.0,0.38
+2016,IL,Illinois,Springfield,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1286424.0,456586.0,0.35
+2016,IN,Indiana,Fort Wayne,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,761073.0,250186.0,0.33
+2016,IL,Illinois,Schaumburg,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,222681.0,70363.0,0.32
+2016,IN,Indiana,Evansville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,352287.0,128502.0,0.36
+2016,IL,Illinois,Rockford,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,458613.0,179203.0,0.39
+2016,IN,Indiana,Hammond,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,242490.0,99858.0,0.41
+2016,IN,Indiana,Bloomington,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,719724.0,226043.0,0.31
+2016,IN,Indiana,Fishers,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,230382.0,70893.0,0.31
+2016,IN,Indiana,Gary,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,240882.0,116479.0,0.48
+2016,IN,Indiana,Carmel,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,237573.0,70411.0,0.3
+2016,NY,New York,New Rochelle,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,231186.0,81118.0,0.35
+2016,KS,Kansas,Kansas City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1816719.0,691267.0,0.38
+2016,IN,Indiana,Muncie,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,210255.0,77471.0,0.37
+2016,IA,Iowa,Davenport,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,299055.0,90932.0,0.3
+2016,IA,Iowa,Cedar Rapids,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,378978.0,106789.0,0.28
+2016,IA,Iowa,Sioux City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,248052.0,72107.0,0.29
+2016,KS,Kansas,Olathe,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,377616.0,103037.0,0.27
+2016,IN,Indiana,Lafayette,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,563289.0,204695.0,0.36
+2016,IA,Iowa,Waterloo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,205218.0,61825.0,0.3
+2016,IA,Iowa,Des Moines,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,610299.0,199759.0,0.33
+2016,IN,Indiana,South Bend,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,303504.0,123346.0,0.41
+2016,IA,Iowa,Iowa City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,203586.0,55410.0,0.27
+2016,KS,Kansas,Overland Park,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,520116.0,133454.0,0.26
+2016,KS,Kansas,Topeka,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,382419.0,125298.0,0.33
+2016,KS,Kansas,Lawrence,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,492060.0,169677.0,0.34
+2016,AZ,Arizona,Yuma,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,279192.0,87874.0,0.31
+2016,LA,Louisiana,Lake Charles,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,215979.0,89935.0,0.42
+2016,KS,Kansas,Wichita,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1147104.0,408136.0,0.36
+2016,LA,Louisiana,Baton Rouge,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,688479.0,263404.0,0.38
+2016,KY,Kentucky,Louisville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1792011.0,680744.0,0.38
+2016,KY,Kentucky,Lexington,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,887409.0,348316.0,0.39
+2016,LA,Louisiana,Kenner,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,200106.0,77111.0,0.39
+2016,NJ,New Jersey,Newark,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,831420.0,409639.0,0.49
+2016,NJ,New Jersey,Elizabeth,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,374907.0,164364.0,0.44
+2016,NV,Nevada,Reno,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,675663.0,227137.0,0.34
+2016,LA,Louisiana,New Orleans,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1031487.0,421606.0,0.41
+2016,MD,Maryland,Baltimore,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1862883.0,804275.0,0.43
+2016,MA,Massachusetts,Boston,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1852782.0,663694.0,0.36
+2016,MA,Massachusetts,Brockton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,281430.0,124873.0,0.44
+2016,LA,Louisiana,Shreveport,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,597933.0,229334.0,0.38
+2016,MA,Massachusetts,Cambridge,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,315486.0,100566.0,0.32
+2016,ME,Maine,Portland,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1949910.0,600366.0,0.31
+2016,NV,Nevada,Las Vegas,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1751268.0,711528.0,0.41
+2016,MA,Massachusetts,Worcester,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,543135.0,208483.0,0.38
+2016,MI,Michigan,Dearborn,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,294459.0,116629.0,0.4
+2016,MI,Michigan,Ann Arbor,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,341802.0,106218.0,0.31
+2016,MA,Massachusetts,Lowell,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,319557.0,117260.0,0.37
+2016,MA,Massachusetts,Fall River,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,266571.0,106454.0,0.4
+2016,MA,Massachusetts,Lynn,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,270987.0,107634.0,0.4
+2016,MA,Massachusetts,Somerville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,227262.0,73480.0,0.32
+2016,MA,Massachusetts,Newton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,255438.0,74718.0,0.29
+2016,MA,Massachusetts,New Bedford,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,285216.0,115490.0,0.4
+2016,MA,Massachusetts,Quincy,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,276813.0,94931.0,0.34
+2016,MI,Michigan,Lansing,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,342891.0,136669.0,0.4
+2016,MI,Michigan,Detroit,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,2141331.0,1069132.0,0.5
+2016,MI,Michigan,Troy,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,242940.0,78617.0,0.32
+2016,MI,Michigan,Flint,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,307302.0,149946.0,0.49
+2016,MN,Minnesota,Brooklyn Park,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,227343.0,72906.0,0.32
+2016,MI,Michigan,Kalamazoo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,222786.0,86446.0,0.39
+2016,MI,Michigan,Rochester Hills,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,212985.0,67964.0,0.32
+2016,MI,Michigan,Warren,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,402168.0,158539.0,0.39
+2016,MI,Michigan,Southfield,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,215217.0,85562.0,0.4
+2016,MI,Michigan,Westland,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,252282.0,101510.0,0.4
+2016,MI,Michigan,Sterling Heights,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,389097.0,145256.0,0.37
+2016,MI,Michigan,Wyoming,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,216375.0,77641.0,0.36
+2016,MN,Minnesota,Duluth,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,258795.0,84441.0,0.33
+2016,MI,Michigan,Farmington Hills,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,239220.0,79869.0,0.33
+2016,MI,Michigan,Grand Rapids,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,564120.0,205050.0,0.36
+2016,MI,Michigan,Livonia,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,290826.0,104324.0,0.36
+2016,MS,Mississippi,Jackson,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,520542.0,211492.0,0.41
+2016,MN,Minnesota,Minneapolis,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1147734.0,348593.0,0.3
+2016,MO,Missouri,O'Fallon,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,237987.0,78862.0,0.33
+2016,MO,Missouri,Columbia,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,713316.0,250729.0,0.35
+2016,MN,Minnesota,St. Paul,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,855204.0,261820.0,0.31
+2016,MN,Minnesota,Rochester,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,952002.0,352459.0,0.37
+2016,MO,Missouri,Independence,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,350490.0,128140.0,0.37
+2016,MN,Minnesota,Plymouth,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,211728.0,56649.0,0.27
+2016,MS,Mississippi,Gulfport,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,203379.0,77741.0,0.38
+2016,MO,Missouri,St. Joseph,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,230340.0,80550.0,0.35
+2016,MO,Missouri,Lee's Summit,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,274092.0,92804.0,0.34
+2016,CA,California,Merced,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,236874.0,89180.0,0.38
+2016,MO,Missouri,St. Louis,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,957882.0,362367.0,0.38
+2016,NE,Nebraska,Lincoln,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,775137.0,217933.0,0.28
+2016,NV,Nevada,Henderson,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,773187.0,294550.0,0.38
+2016,MT,Montana,Billings,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,312510.0,95667.0,0.31
+2016,NE,Nebraska,Omaha,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1226874.0,390252.0,0.32
+2016,MT,Montana,Missoula,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,200364.0,56522.0,0.28
+2016,CA,California,Palmdale,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,458250.0,176148.0,0.38
+2016,CA,California,Rancho Cucamonga,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,495807.0,182003.0,0.37
+2016,NJ,New Jersey,Jersey City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,742791.0,322842.0,0.43
+2016,NV,Nevada,Sparks,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,270792.0,91714.0,0.34
+2016,NV,Nevada,North Las Vegas,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,650883.0,279110.0,0.43
+2016,NJ,New Jersey,Paterson,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,438597.0,190266.0,0.43
+2016,NJ,New Jersey,Union City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,407913.0,160146.0,0.39
+2016,NJ,New Jersey,Passaic,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,209343.0,86761.0,0.41
+2016,NJ,New Jersey,Trenton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,254739.0,115970.0,0.46
+2016,NH,New Hampshire,Manchester,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,328695.0,118439.0,0.36
+2016,NH,New Hampshire,Nashua,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,259482.0,91082.0,0.35
+2016,NJ,New Jersey,Camden,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,232032.0,115439.0,0.5
+2016,NJ,New Jersey,Clifton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,252408.0,92827.0,0.37
+2016,NM,New Mexico,Albuquerque,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1637556.0,530041.0,0.32
+2016,NM,New Mexico,Santa Fe,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,203841.0,55813.0,0.27
+2016,NM,New Mexico,Rio Rancho,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,262563.0,82748.0,0.32
+2016,NY,New York,Albany,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,525870.0,222038.0,0.42
+2016,NY,New York,Mount Vernon,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,201876.0,83215.0,0.41
+2016,NM,New Mexico,Las Cruces,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,292854.0,92992.0,0.32
+2016,CA,California,San Francisco,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,2415705.0,734506.0,0.3
+2016,OH,Ohio,Dayton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,424581.0,190855.0,0.45
+2016,PA,Pennsylvania,Pittsburgh,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,917112.0,364996.0,0.4
+2016,PA,Pennsylvania,Philadelphia,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,4578018.0,1944075.0,0.42
+2016,NY,New York,New York,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,24525399.0,9797398.0,0.4
+2016,NY,New York,Yonkers,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,587928.0,214554.0,0.36
+2016,NC,North Carolin,Asheville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,250179.0,75951.0,0.3
+2016,NY,New York,Syracuse,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,435510.0,174545.0,0.4
+2016,NC,North Carolin,Cary,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,405702.0,121101.0,0.3
+2016,NY,New York,Schenectady,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,198405.0,81533.0,0.41
+2016,DC,District of C,Washington,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1805169.0,662282.0,0.37
+2016,NC,North Carolin,Greensboro,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,808998.0,288936.0,0.36
+2016,NC,North Carolin,Charlotte,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,2194272.0,729752.0,0.33
+2016,NC,North Carolin,Raleigh,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1211676.0,400259.0,0.33
+2016,NC,North Carolin,Gastonia,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,215223.0,80482.0,0.37
+2016,NC,North Carolin,Greenville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,253662.0,97435.0,0.38
+2016,NC,North Carolin,High Point,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,313113.0,112975.0,0.36
+2016,NC,North Carolin,Durham,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,684990.0,235076.0,0.34
+2016,NC,North Carolin,Fayetteville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,822432.0,306626.0,0.37
+2016,NC,North Carolin,Jacksonville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,2675787.0,1021545.0,0.38
+2016,NC,North Carolin,Wilmington,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,531981.0,193798.0,0.36
+2016,NC,North Carolin,Concord,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,603393.0,199296.0,0.33
+2016,OH,Ohio,Cincinnati,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,890829.0,381715.0,0.43
+2016,OH,Ohio,Cleveland,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1190445.0,507333.0,0.43
+2016,OH,Ohio,Akron,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,597330.0,257718.0,0.43
+2016,ND,North Dakota,Fargo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,316647.0,86663.0,0.27
+2016,NC,North Carolin,Winston-Salem,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,688851.0,248329.0,0.36
+2016,OH,Ohio,Canton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,219021.0,92397.0,0.42
+2016,FL,Florida,St. Petersburg,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,734307.0,294072.0,0.4
+2016,PA,Pennsylvania,Erie,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,305358.0,129401.0,0.42
+2016,OH,Ohio,Columbus,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,2930754.0,1160237.0,0.4
+2016,OH,Ohio,Toledo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,861624.0,371457.0,0.43
+2016,OK,Oklahoma,Norman,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,332775.0,112251.0,0.34
+2016,OK,Oklahoma,Lawton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,290601.0,101281.0,0.35
+2016,OK,Oklahoma,Broken Arrow,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,296550.0,94167.0,0.32
+2016,OK,Oklahoma,Edmond,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,244215.0,73405.0,0.3
+2016,OH,Ohio,Youngstown,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,200946.0,91213.0,0.45
+2016,OH,Ohio,Parma,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,244803.0,83912.0,0.34
+2016,GA,Georgia,Augusta,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,587532.0,250688.0,0.43
+2016,OK,Oklahoma,Tulsa,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1175718.0,400090.0,0.34
+2016,OK,Oklahoma,Oklahoma City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1739997.0,597733.0,0.34
+2016,OR,Oregon,Salem,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,463911.0,151666.0,0.33
+2016,OR,Oregon,Gresham,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,316782.0,102560.0,0.32
+2016,OR,Oregon,Eugene,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,468555.0,141205.0,0.3
+2016,OR,Oregon,Beaverton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,269409.0,84075.0,0.31
+2016,OR,Oregon,Bend,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,229917.0,68286.0,0.3
+2016,OR,Oregon,Medford,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,224721.0,76406.0,0.34
+2016,OR,Oregon,Hillsboro,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,274833.0,87528.0,0.32
+2016,PA,Pennsylvania,Allentown,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,354096.0,138866.0,0.39
+2016,PA,Pennsylvania,Bethlehem,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,224946.0,84463.0,0.38
+2016,TX,Texas,Dallas,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,3593448.0,1245836.0,0.35
+2016,TX,Texas,Edinburg,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,231300.0,76160.0,0.33
+2016,TX,Texas,El Paso,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1947363.0,716753.0,0.37
+2016,TX,Texas,Fort Worth,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,2223618.0,823587.0,0.37
+2016,TX,Texas,Frisco,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,350967.0,108682.0,0.31
+2016,TX,Texas,Denton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,340149.0,105806.0,0.31
+2016,WA,Washington,Tacoma,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,595191.0,226151.0,0.38
+2016,TX,Texas,Garland,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,680628.0,231743.0,0.34
+2016,TX,Texas,Grand Prairie,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,526188.0,184821.0,0.35
+2016,TX,Texas,Houston,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,6298353.0,2254436.0,0.36
+2016,TX,Texas,McAllen,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,389631.0,126680.0,0.33
+2016,TX,Texas,Lubbock,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,688719.0,242785.0,0.35
+2016,TX,Texas,Laredo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,708273.0,249852.0,0.35
+2016,TX,Texas,Mesquite,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,419472.0,144535.0,0.34
+2016,TX,Texas,Odessa,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,299820.0,98478.0,0.33
+2016,TX,Texas,Missouri City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,202074.0,71158.0,0.35
+2016,TX,Texas,Irving,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,648870.0,216919.0,0.33
+2016,TX,Texas,Lewisville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,285870.0,91053.0,0.32
+2016,TX,Texas,Killeen,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,383763.0,152189.0,0.4
+2016,TX,Texas,League City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,250680.0,86292.0,0.34
+2016,TX,Texas,Pasadena,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,858495.0,296175.0,0.34
+2016,TX,Texas,McKinney,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,393351.0,130291.0,0.33
+2016,TX,Texas,Midland,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,333441.0,108746.0,0.33
+2016,TX,Texas,Longview,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,241365.0,85497.0,0.35
+2016,TX,Texas,Mission,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,231174.0,75300.0,0.33
+2016,TX,Texas,San Antonio,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,3982221.0,1395853.0,0.35
+2016,TX,Texas,Richardson,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,297669.0,91683.0,0.31
+2016,TX,Texas,Tyler,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,290700.0,102962.0,0.35
+2016,TX,Texas,Plano,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,779523.0,252464.0,0.32
+2016,TX,Texas,Round Rock,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,299661.0,101480.0,0.34
+2016,TX,Texas,San Angelo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,279600.0,96034.0,0.34
+2016,TX,Texas,Sugar Land,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,236451.0,75691.0,0.32
+2016,TX,Texas,Pharr,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,211200.0,72400.0,0.34
+2016,TX,Texas,Waco,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,374415.0,131768.0,0.35
+2016,TX,Texas,Pearland,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,273756.0,87546.0,0.32
+2016,VA,Virginia,Newport News,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,542157.0,207035.0,0.38
+2016,VA,Virginia,Chesapeake,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,666627.0,253489.0,0.38
+2016,UT,Utah,Sandy,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,262383.0,76156.0,0.29
+2016,VA,Virginia,Norfolk,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,728409.0,302323.0,0.42
+2016,VA,Virginia,Hampton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,412308.0,177800.0,0.43
+2016,UT,Utah,Salt Lake City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,559320.0,170250.0,0.3
+2016,VA,Virginia,Alexandria,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,419898.0,132544.0,0.32
+2016,VA,Virginia,Portsmouth,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,286605.0,129052.0,0.45
+2016,UT,Utah,Orem,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,264984.0,80830.0,0.31
+2016,UT,Utah,Layton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,201933.0,63011.0,0.31
+2016,VA,Virginia,Lynchburg,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,226704.0,83872.0,0.37
+2016,UT,Utah,Ogden,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,248475.0,85060.0,0.34
+2016,VT,Vermont,Burlington,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,127251.0,36832.0,0.29
+2016,UT,Utah,West Jordan,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,311136.0,96732.0,0.31
+2016,TX,Texas,Wichita Falls,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,313659.0,120670.0,0.38
+2016,UT,Utah,St. George,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,218691.0,68575.0,0.31
+2016,UT,Utah,Provo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,337464.0,104781.0,0.31
+2016,UT,Utah,West Valley City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,388440.0,128977.0,0.33
+2016,VA,Virginia,Richmond,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,923745.0,355409.0,0.38
+2016,VA,Virginia,Roanoke,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,291096.0,115346.0,0.4
+2016,VA,Virginia,Virginia Beach,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1313982.0,492369.0,0.37
+2016,WA,Washington,Seattle,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1825980.0,535261.0,0.29
+2016,WA,Washington,Renton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,272781.0,87379.0,0.32
+2016,WA,Washington,Everett,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,309057.0,115886.0,0.37
+2016,WA,Washington,Kennewick,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,221751.0,74902.0,0.34
+2016,WA,Washington,Kent,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,277233.0,92762.0,0.33
+2016,WA,Washington,Bellevue,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,367089.0,104570.0,0.28
+2016,WA,Washington,Federal Way,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,267918.0,87730.0,0.33
+2016,WA,Washington,Auburn,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,210540.0,68688.0,0.33
+2016,VA,Virginia,Suffolk,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,253755.0,105045.0,0.41
+2016,WA,Washington,Bellingham,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,242655.0,73880.0,0.3
+2016,WI,Wisconsin,Milwaukee,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1784499.0,702974.0,0.39
+2016,WA,Washington,Spokane Valley,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,269265.0,86033.0,0.32
+2016,WI,Wisconsin,Madison,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,699627.0,205445.0,0.29
+2016,WA,Washington,Spokane,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,626748.0,203626.0,0.32
+2016,WI,Wisconsin,Green Bay,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,312171.0,112268.0,0.36
+2016,WI,Wisconsin,Appleton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,217869.0,64819.0,0.3
+2016,WA,Washington,Vancouver,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,485373.0,157305.0,0.32
+2016,WV,West Virginia,Charleston,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,514449.0,179747.0,0.35
+2016,WI,Wisconsin,Kenosha,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,297654.0,103579.0,0.35
+2016,WA,Washington,Yakima,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,273201.0,91598.0,0.34
+2016,WI,Wisconsin,Racine,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,236580.0,94279.0,0.4
+2016,WY,Wyoming,Cheyenne,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,178398.0,59219.0,0.33
+2016,WI,Wisconsin,Waukesha,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,212154.0,70691.0,0.33
+2016,TN,Tennessee,Knoxville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,536622.0,198731.0,0.37
+2016,TX,Texas,Bryan,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,228603.0,83736.0,0.37
+2016,AL,Alabama,Huntsville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,540315.0,205293.0,0.38
+2016,AL,Alabama,Montgomery,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,617292.0,235015.0,0.38
+2016,AL,Alabama,Mobile,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,585333.0,230562.0,0.39
+2016,AZ,Arizona,Chandler,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,708369.0,247634.0,0.35
+2016,AK,Alaska,Anchorage,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,875478.0,272340.0,0.31
+2016,AZ,Arizona,Gilbert,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,625359.0,215202.0,0.34
+2016,AL,Alabama,Tuscaloosa,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,271404.0,107930.0,0.4
+2016,AL,Alabama,Hoover,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,244857.0,80533.0,0.33
+2016,AZ,Arizona,Avondale,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,228714.0,86583.0,0.38
+2016,US,United States,,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,,,
+2016,AZ,Arizona,Phoenix,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,4336896.0,1614507.0,0.37
+2016,AZ,Arizona,Mesa,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1317123.0,470753.0,0.36
+2016,AZ,Arizona,Glendale,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1255320.0,453237.0,0.36
+2016,CA,California,Antioch,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,307116.0,109740.0,0.36
+2016,AR,Arkansas,Fort Smith,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,258627.0,91180.0,0.35
+2016,AZ,Arizona,Scottsdale,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,652155.0,206773.0,0.32
+2016,CA,California,Alhambra,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,249267.0,94534.0,0.38
+2016,CA,California,Anaheim,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1008795.0,342249.0,0.34
+2016,AZ,Arizona,Tucson,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1560348.0,536722.0,0.34
+2016,AR,Arkansas,Little Rock,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,580572.0,212097.0,0.37
+2016,AZ,Arizona,Tempe,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,485157.0,170335.0,0.35
+2016,AR,Arkansas,Jonesboro,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,201789.0,65570.0,0.32
+2016,AZ,Arizona,Surprise,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,352551.0,122596.0,0.35
+2016,AR,Arkansas,Springdale,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,209391.0,76663.0,0.37
+2016,CA,California,Alameda,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,221436.0,74607.0,0.34
+2016,CA,California,Buena Park,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,241590.0,82630.0,0.34
+2016,CA,California,Chico,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,258561.0,85166.0,0.33
+2016,CA,California,Burbank,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,310020.0,105632.0,0.34
+2016,CA,California,Chino,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,233949.0,88697.0,0.38
+2016,CA,California,Carlsbad,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,315984.0,95301.0,0.3
+2016,CA,California,Corona,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,457122.0,174299.0,0.38
+2016,CA,California,Bakersfield,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1042449.0,387437.0,0.37
+2016,CA,California,Daly City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,303369.0,105524.0,0.35
+2016,CA,California,Chula Vista,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,731748.0,250969.0,0.34
+2016,CA,California,Costa Mesa,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,329880.0,105738.0,0.32
+2016,CA,California,Clovis,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,286893.0,96009.0,0.33
+2016,CA,California,Chino Hills,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,224397.0,82203.0,0.37
+2016,CA,California,Compton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,289365.0,120011.0,0.41
+2016,CA,California,Baldwin Park,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,226170.0,85072.0,0.38
+2016,CA,California,Berkeley,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,337740.0,108989.0,0.32
+2016,CA,California,Carson,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,275142.0,106017.0,0.39
+2016,CA,California,Citrus Heights,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,249903.0,88485.0,0.35
+2016,CA,California,Bellflower,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,229848.0,87531.0,0.38
+2016,CA,California,Apple Valley,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,207405.0,78834.0,0.38
+2016,CA,California,Fresno,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1483995.0,543048.0,0.37
+2016,CA,California,El Cajon,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,298434.0,105466.0,0.35
+2016,CA,California,Garden Grove,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,512649.0,182959.0,0.36
+2016,CA,California,Hayward,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,432558.0,158550.0,0.37
+2016,CA,California,Elk Grove,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,459045.0,168868.0,0.37
+2016,CA,California,Fremont,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,642267.0,220980.0,0.34
+2016,CA,California,Fontana,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,588207.0,230770.0,0.39
+2016,CA,California,El Monte,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,340425.0,134326.0,0.39
+2016,CA,California,Escondido,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,431733.0,149230.0,0.35
+2016,CA,California,Hawthorne,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,252879.0,100324.0,0.4
+2016,CA,California,Fullerton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,405483.0,132154.0,0.33
+2016,CA,California,Fairfield,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,315963.0,118667.0,0.38
+2016,CA,California,Downey,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,335316.0,119306.0,0.36
+2016,CA,California,Folsom,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,216609.0,72608.0,0.34
+2016,CA,California,Long Beach,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1386771.0,518954.0,0.37
+2016,CA,California,Huntington Beach,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,569976.0,175283.0,0.31
+2016,CA,California,Hemet,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,235971.0,90785.0,0.38
+2016,CA,California,Inglewood,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,329019.0,134566.0,0.41
+2016,CA,California,Lancaster,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,469899.0,181727.0,0.39
+2016,CA,California,Hesperia,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,270519.0,106122.0,0.39
+2016,CA,California,Livermore,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,242904.0,79043.0,0.33
+2016,CA,California,Indio,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,228108.0,87684.0,0.38
+2016,CA,California,Irvine,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,637125.0,199809.0,0.31
+2016,CA,California,Lake Forest,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,231792.0,71697.0,0.31
+2016,CA,California,Lakewood,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,669084.0,202576.0,0.3
+2016,CA,California,Los Angeles,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,11377863.0,4189023.0,0.37
+2016,CA,California,Norwalk,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,573456.0,206389.0,0.36
+2016,CA,California,Manteca,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,201288.0,70566.0,0.35
+2016,CA,California,Mission Viejo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,279915.0,83178.0,0.3
+2016,CA,California,Napa,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,230745.0,75734.0,0.33
+2016,CA,California,Modesto,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,603495.0,218582.0,0.36
+2016,CA,California,Newport Beach,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,255558.0,70854.0,0.28
+2016,CA,California,Murrieta,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,310398.0,115564.0,0.37
+2016,CA,California,Mountain View,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,222198.0,66547.0,0.3
+2016,CA,California,Milpitas,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,200370.0,68039.0,0.34
+2016,CA,California,Moreno Valley,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,580095.0,237342.0,0.41
+2016,CA,California,Menifee,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,232557.0,86530.0,0.37
+2016,CA,California,Lynwood,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,209316.0,82712.0,0.4
+2016,CA,California,Pleasanton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,210855.0,66133.0,0.31
+2016,CA,California,Pomona,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,447174.0,169378.0,0.38
+2016,CA,California,Oakland,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1172172.0,436879.0,0.37
+2016,CA,California,Ontario,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,491772.0,191409.0,0.39
+2016,CA,California,Oceanside,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,501258.0,168116.0,0.34
+2016,CA,California,Oxnard,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,593697.0,219227.0,0.37
+2016,CA,California,Orange,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,409248.0,130851.0,0.32
+2016,CA,California,Redding,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,269583.0,85986.0,0.32
+2016,CA,California,Rialto,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,297513.0,119387.0,0.4
+2016,CA,California,Redwood City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,230445.0,72665.0,0.32
+2016,CA,California,Redlands,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,206241.0,73462.0,0.36
+2016,CA,California,Redondo Beach,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,200244.0,64570.0,0.32
+2016,CA,California,Perris,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,205158.0,84774.0,0.41
+2016,CA,California,Sacramento,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1399433.0,529854.0,0.38
+2016,CA,California,Riverside,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,911613.0,352693.0,0.39
+2016,CA,California,Roseville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,356364.0,111126.0,0.31
+2016,CA,California,San Bernardino,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,629772.0,259876.0,0.41
+2016,CA,California,San Buenaventura (Ventura),Unhealthy Behaviors,UNHBEH,Sleep <7 hours,319299.0,106659.0,0.33
+2016,CA,California,Salinas,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,451323.0,158446.0,0.35
+2016,CA,California,San Diego,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,3922206.0,1308053.0,0.33
+2016,CA,California,San Jose,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,2837826.0,930121.0,0.33
+2016,CA,California,San Leandro,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,254850.0,92463.0,0.36
+2016,CA,California,San Mateo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,291621.0,91867.0,0.32
+2016,CA,California,San Ramon,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,216444.0,68140.0,0.31
+2016,CA,California,San Marcos,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,251343.0,83741.0,0.33
+2016,CA,California,Santa Barbara,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,265230.0,72713.0,0.27
+2016,CA,California,Stockton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,875121.0,329320.0,0.38
+2016,CA,California,Simi Valley,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,372711.0,125659.0,0.34
+2016,CA,California,Tracy,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,248766.0,87818.0,0.35
+2016,CA,California,Sunnyvale,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,420243.0,129684.0,0.31
+2016,CA,California,Turlock,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,205647.0,72491.0,0.35
+2016,CA,California,Santa Ana,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,973584.0,346813.0,0.36
+2016,CA,California,Santa Clara,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,349404.0,109523.0,0.31
+2016,CA,California,Santa Rosa,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,503445.0,169974.0,0.34
+2016,CA,California,Upland,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,221196.0,81219.0,0.37
+2016,CA,California,Santa Clarita,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,528960.0,181344.0,0.34
+2016,CA,California,Temecula,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,300291.0,110737.0,0.37
+2016,CA,California,Vacaville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,277284.0,99962.0,0.36
+2016,CA,California,Tustin,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,226620.0,74211.0,0.33
+2016,CA,California,Torrance,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,436314.0,150391.0,0.34
+2016,CA,California,Thousand Oaks,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,380049.0,121404.0,0.32
+2016,CA,California,South Gate,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,283188.0,106485.0,0.38
+2016,CA,California,Santa Monica,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,269208.0,85209.0,0.32
+2016,CA,California,Santa Maria,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,298659.0,94485.0,0.32
+2016,CO,Colorado,Aurora,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1568931.0,514693.0,0.33
+2016,CA,California,Vista,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,281502.0,97006.0,0.34
+2016,CA,California,Westminster,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,587445.0,189152.0,0.32
+2016,CO,Colorado,Colorado Springs,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1249281.0,378356.0,0.3
+2016,CO,Colorado,Centennial,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,301131.0,80356.0,0.27
+2016,CO,Colorado,Boulder,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,292155.0,70909.0,0.24
+2016,CO,Colorado,Arvada,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,319299.0,85616.0,0.27
+2016,CA,California,Whittier,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,255993.0,87948.0,0.34
+2016,CA,California,West Covina,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,318294.0,115179.0,0.36
+2016,CA,California,Visalia,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,373326.0,122374.0,0.33
+2016,CA,California,Vallejo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,347826.0,135137.0,0.39
+2016,CA,California,Victorville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,347709.0,140957.0,0.41
+2016,FL,Florida,Boca Raton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,253176.0,88773.0,0.35
+2016,CO,Colorado,Denver,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1800474.0,512104.0,0.28
+2016,CT,Connecticut,Waterbury,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,331098.0,133967.0,0.4
+2016,CT,Connecticut,Bridgeport,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,432687.0,174103.0,0.4
+2016,CO,Colorado,Greeley,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,278667.0,81665.0,0.29
+2016,CO,Colorado,Fort Collins,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,431958.0,114956.0,0.27
+2016,CT,Connecticut,Hartford,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,374325.0,153448.0,0.41
+2016,CT,Connecticut,New Britain,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,219618.0,81303.0,0.37
+2016,CO,Colorado,Loveland,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,200577.0,53748.0,0.27
+2016,CT,Connecticut,Stamford,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,367929.0,127127.0,0.35
+2016,CO,Colorado,Longmont,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,258810.0,67151.0,0.26
+2016,CT,Connecticut,New Haven,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,389337.0,158498.0,0.41
+2016,CT,Connecticut,Danbury,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,242679.0,87097.0,0.36
+2016,CO,Colorado,Pueblo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,319785.0,110368.0,0.35
+2016,CO,Colorado,Thornton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,356316.0,111256.0,0.31
+2016,FL,Florida,Clearwater,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,323055.0,125098.0,0.39
+2016,FL,Florida,Fort Lauderdale,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,496563.0,187117.0,0.38
+2016,FL,Florida,Deltona,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,255546.0,97463.0,0.38
+2016,FL,Florida,Cape Coral,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,462915.0,155207.0,0.34
+2016,FL,Florida,Gainesville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,373062.0,140156.0,0.38
+2016,FL,Florida,Hollywood,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,422304.0,156175.0,0.37
+2016,FL,Florida,Boynton Beach,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,204651.0,82977.0,0.41
+2016,FL,Florida,Coral Springs,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,363288.0,132237.0,0.36
+2016,FL,Florida,Deerfield Beach,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,225054.0,84708.0,0.38
+2016,FL,Florida,Hialeah,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,674007.0,230284.0,0.34
+2016,FL,Florida,Davie,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,275976.0,97199.0,0.35
+2016,FL,Florida,Miramar,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,366123.0,144867.0,0.4
+2016,FL,Florida,Lakeland,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,292266.0,104180.0,0.36
+2016,FL,Florida,Miami,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1198371.0,419600.0,0.35
+2016,FL,Florida,Melbourne,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,228204.0,81581.0,0.36
+2016,FL,Florida,Palm Bay,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,309570.0,116301.0,0.38
+2016,FL,Florida,Orlando,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,714883.0,268202.0,0.38
+2016,FL,Florida,Miami Beach,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,263337.0,82057.0,0.31
+2016,FL,Florida,Largo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,232944.0,89544.0,0.38
+2016,FL,Florida,Palm Coast,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,225540.0,79247.0,0.35
+2016,FL,Florida,Miami Gardens,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,321501.0,132671.0,0.41
+2016,FL,Florida,Lauderhill,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,200661.0,89356.0,0.45
+2016,FL,Florida,Tampa,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1007127.0,358938.0,0.36
+2016,FL,Florida,Port St. Lucie,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,493809.0,183973.0,0.37
+2016,GA,Georgia,Atlanta,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1260009.0,484941.0,0.38
+2016,FL,Florida,Tallahassee,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,544128.0,185356.0,0.34
+2016,FL,Florida,Plantation,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,254865.0,90354.0,0.35
+2016,FL,Florida,Sunrise,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,253317.0,97039.0,0.38
+2016,FL,Florida,West Palm Beach,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,299757.0,122643.0,0.41
+2016,FL,Florida,Pembroke Pines,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,464250.0,166808.0,0.36
+2016,FL,Florida,Pompano Beach,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,299535.0,115741.0,0.39
+2016,GA,Georgia,Athens,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,346356.0,130975.0,0.38
+2016,HI,Hawaii,Honolulu,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,2859621.0,1347253.0,0.47
+2016,GA,Georgia,Macon,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,274053.0,120131.0,0.44
+2016,GA,Georgia,Savannah,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,408858.0,169933.0,0.42
+2016,GA,Georgia,Johns Creek,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,230184.0,75799.0,0.33
+2016,GA,Georgia,Sandy Springs,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,281559.0,93474.0,0.33
+2016,ID,Idaho,Boise City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,617013.0,171499.0,0.28
+2016,GA,Georgia,Warner Robins,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,199764.0,77870.0,0.39
+2016,ID,Idaho,Meridian,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,225276.0,62852.0,0.28
+2016,ID,Idaho,Nampa,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,244671.0,80521.0,0.33
+2016,GA,Georgia,Roswell,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,265038.0,86286.0,0.33
+2016,IL,Illinois,Champaign,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,243165.0,74114.0,0.3
+2016,IL,Illinois,Bolingbrook,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,220098.0,75364.0,0.34
+2016,IL,Illinois,Arlington Heights,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,225303.0,66432.0,0.29
+2016,PA,Pennsylvania,Scranton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,228267.0,83836.0,0.37
+2016,RI,Rhode Island,Providence,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,534126.0,221087.0,0.41
+2016,SD,South Dakota,Rapid City,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,203868.0,54249.0,0.27
+2016,SC,South Carolin,Rock Hill,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,198462.0,81029.0,0.41
+2016,SC,South Carolin,Mount Pleasant,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,203529.0,59844.0,0.29
+2016,SD,South Dakota,Sioux Falls,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,461664.0,125300.0,0.27
+2016,PA,Pennsylvania,Reading,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,264246.0,119928.0,0.45
+2016,TN,Tennessee,Clarksville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,398787.0,165819.0,0.42
+2016,RI,Rhode Island,Cranston,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,241161.0,91544.0,0.38
+2016,TN,Tennessee,Chattanooga,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,503022.0,201013.0,0.4
+2016,SC,South Carolin,North Charleston,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,292413.0,114094.0,0.39
+2016,RI,Rhode Island,Pawtucket,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,213444.0,88285.0,0.41
+2016,RI,Rhode Island,Warwick,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,248016.0,89085.0,0.36
+2016,TX,Texas,Arlington,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1096314.0,402969.0,0.37
+2016,TN,Tennessee,Murfreesboro,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,326265.0,123256.0,0.38
+2016,TN,Tennessee,Memphis,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1940667.0,799670.0,0.41
+2016,TN,Tennessee,Nashville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,1803666.0,714773.0,0.4
+2016,TX,Texas,Abilene,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,351189.0,117443.0,0.33
+2016,TX,Texas,Allen,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,252738.0,82862.0,0.33
+2016,TX,Texas,Amarillo,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,572085.0,195546.0,0.34
+2016,TX,Texas,Austin,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,2371170.0,701174.0,0.3
+2016,TX,Texas,Corpus Christi,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,915645.0,311276.0,0.34
+2016,TX,Texas,Carrollton,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,357291.0,113667.0,0.32
+2016,TX,Texas,Brownsville,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,525069.0,183831.0,0.35
+2016,TX,Texas,Beaumont,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,354888.0,134498.0,0.38
+2016,TX,Texas,College Station,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,281571.0,94668.0,0.34
+2016,TX,Texas,Baytown,Unhealthy Behaviors,UNHBEH,Sleep <7 hours,215406.0,75756.0,0.35
